@@ -3,7 +3,7 @@ import UserButtons from "./userButtons";
 
 const Header = () => {
   return (
-    <header className="flex sticky top-0 shadow-xl shadow-slate-400 bg-slate-950 text-slate-200 px-8 py-4 itens-end justify-between text-base z-10">
+    <header className="flex sticky top-0 shadow-xl shadow-slate-400 bg-slate-950 text-slate-200 px-8 py-4 itens-end justify-between text-xl z-10">
       {/* z-10 ordem da camada */}
       {/* Deu conflito com text-3xl (removido da linha) */}
       <a href="/">
