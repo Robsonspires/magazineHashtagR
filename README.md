@@ -4,6 +4,8 @@
 
 #
 
+#### Versionamento: como este projeto faz parte do curso, não terá a princípio a criação de branch's, serão criadas para o aprimoramento dos estudos no futuro.
+
 ## Atualizações dos procedimentos do curso em Julho de 2025
 
 ## em função das atualizações das bibliotecas.
