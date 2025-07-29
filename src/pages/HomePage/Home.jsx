@@ -1,5 +1,5 @@
-import CartOverlay from "../../components/Cart/CartOverlay";
-import MainSection from "./MainSection";
+import CartOverlay from '../../components/Cart/CartOverlay';
+import MainSection from './MainSection';
 
 const Home = () => {
   return (

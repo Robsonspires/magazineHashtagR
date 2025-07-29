@@ -1,5 +1,3 @@
-const PurchaseHistoryPage = () => {
-  return <h1>Página History Purchase</h1>;
-};
+const PurchaseHistory = () => {};
 
-export default PurchaseHistoryPage;
+export default PurchaseHistory;
